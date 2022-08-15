@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Loaded cakes",
+        "price": 1900,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Wedding Cake",
+        "price": 3000,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Proposal Cake",
+        "price": 1500,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Birthday Cake",
+        "price": 1299,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Strawberry Cake",
+        "price": 2000,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Chocolate Cake",
+        "price": 2499,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Chocolate-loaded Cake",
+        "price": 4099,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "CupCakes",
+        "price": 1500,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpg" } } }
+      }
+    },
+	{
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Black-Forest Cake",
+        "price": 2200,
+        "image": { "fields": { "file": { "url": "./images/product-9.jpg" } } }
+      }
+    },
+	{
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Bento",
+        "price": 1100,
+        "image": { "fields": { "file": { "url": "./images/product-10.jpg" } } }
+      }
+    },
+	{
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Pinata Cake",
+        "price": 3399,
+        "image": { "fields": { "file": { "url": "./images/product-11.jpg" } } }
+      }
+    },
+	{
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Customised Cake",
+        "price": 2300,
+        "image": { "fields": { "file": { "url": "./images/product-12.jpg" } } }
+      }
+    }
+  ]
+}
